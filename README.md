@@ -1,2 +1,3 @@
-# pro-music-streaming-wofm
-Automated issue comment bot repository
+# Pro Music Streaming Wofm
+
+Automated issue comment bot repository.
